@@ -25,13 +25,13 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanuflash&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact"> 
 </p>
 
-## GitHub Trophies
+## GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=shanuflash&theme=discord&no-frame=true&no-bg=true&column=7)
 
-## Random dev quote
+## Random dev quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## Here have a meme
+## Here have a meme:
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 <br><br><h3 align="center">If you like my work, buy me a coffee!</h3>
