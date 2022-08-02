@@ -26,13 +26,17 @@
 </p>
 
 ## GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=shanuflash&theme=discord&no-frame=true&no-bg=true&column=7)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shanuflash&theme=discord&no-frame=true&no-bg=true&column=7">
+</p>
 
 ## Random dev quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+</p>
 
 ## Here have a meme:
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<p align="center"><img src="https://random-memer.herokuapp.com/" width="512px"/></p>
 
 <br><br><h3 align="center">If you like my work, buy me a coffee!</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/shanuflash"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" height="50" width="210" alt="shanuflash" /></a></p>
