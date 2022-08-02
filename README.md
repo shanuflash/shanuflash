@@ -2,10 +2,10 @@
 <h3 align="center">19yo • Developer // Tech enthusiast from India</h3>
 
 - 🔭 I’m currently working on [freeram](https://github.com/shanuflash/freeram)
+- 🤝 I would appreciate any help on [freeram](https://github.com/shanuflash/freeram)
 - 🌱 I’m currently learning **Javascript and React**
-- 🤝 I’m looking for help with [freeram](https://github.com/shanuflash/freeram)
 - 💬 Ask me about **Java, C, or anything in general**
-- 📫 How to reach me **shanuflash@gmail.com**
+- 📫 You can reach me at **shanuflash@gmail.com**
 
 
 ## Socials:
