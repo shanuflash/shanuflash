@@ -5,7 +5,7 @@
 - 🤝 I would appreciate any help on [freeram](https://github.com/shanuflash/freeram)
 - 🌱 I’m currently learning **Javascript and React**
 - 💬 Ask me about **Java, C, or anything in general**
-- 📫 You can reach me at **shanuflash@gmail.com**
+- 📫 You can reach me at **shanuflash@gmail.com** 
 
 
 ## Socials:
