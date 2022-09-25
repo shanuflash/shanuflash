@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shanu S</h1>
 <h3 align="center">19yo • Developer // Tech enthusiast from India</h3>
 
-- 🔭 I’m currently working on [freeram](https://github.com/shanuflash/freeram)
-- 🤝 I would appreciate any help on [freeram](https://github.com/shanuflash/freeram)
+- 🔭 I’m currently working on [pizza](https://github.com/shanuflash/pizza), [drestein](https://github.com/drestein2022)
+- 🤝 I would appreciate any help on the above projects
 - 🌱 I’m currently learning **Javascript and React**
 - 💬 Ask me about **Java, C, or anything in general**
 - 📫 You can reach me at **shanuflash@gmail.com** 
