@@ -16,7 +16,7 @@
 
 ## GitHub Stats:   
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=shanuflash&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"> <!--chartreuse-dark-->
+    <img src="https://github-readme-stats.vercel.app/api?username=shanuflash&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true"> <!--chartreuse-dark-->
 </p>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanuflash&theme=midnight-purple&hide_border=true"> 
