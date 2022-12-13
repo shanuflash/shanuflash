@@ -16,13 +16,14 @@
 
 ## GitHub Stats:   
 <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=shanuflash&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true"> 
     <!--chartreuse-dark-->
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanuflash&theme=midnight-purple&hide_border=true"> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanuflash&theme=chartreuse-dark&hide_border=true"> 
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanuflash&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanuflash&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact"> 
 </p>
 
 ## GitHub Trophies:
@@ -32,7 +33,7 @@
 
 ## Random dev quote:
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
 
 ## Here have a meme:
