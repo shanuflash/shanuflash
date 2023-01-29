@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shanu S</h1>
 <h3 align="center">19yo • Developer // Tech enthusiast from India</h3>
 
-- 🔭 I’m currently working on [drestein](https://github.com/drestein/website)
+- 🔭 I’m currently working on [todo](https://github.com/shanuflash/todo)
 - 🤝 I would appreciate any help on the above projects
 - 🌱 I’m currently learning **Javascript and React**
 - 💬 Ask me about **Java, C, or anything in general**
