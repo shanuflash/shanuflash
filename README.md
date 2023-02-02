@@ -36,8 +36,8 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
 
-## Here have a meme:
-<p align="center"><img src="https://random-memer.herokuapp.com/" width="512px"/></p>
+<!-- ## Here have a meme:
+<p align="center"><img src="https://random-memer.herokuapp.com/" width="512px"/></p> -->
 
 <br><br><h3 align="center">If you like my work, buy me a coffee!</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/shanuflash"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" height="50" width="210" alt="shanuflash" /></a></p>
