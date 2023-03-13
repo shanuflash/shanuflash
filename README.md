@@ -4,7 +4,7 @@
 <!-- - 🔭 I’m currently working on [todo](https://github.com/shanuflash/todo) -->
 - 🤝 I would appreciate any help on the above projects
 - 🌱 I’m currently learning **Javascript and React**
-- 💬 Ask me about **Java, C, or anything in general**
+- 💬 Ask me about **React, HTML, CSS or anything in general**
 - 📫 You can reach me at **shanuflash@gmail.com** 
 
 
