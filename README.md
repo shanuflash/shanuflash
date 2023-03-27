@@ -2,7 +2,7 @@
 <h3 align="center">19yo • Developer // Tech enthusiast from India</h3>
 
 <!-- - 🔭 I’m currently working on [todo](https://github.com/shanuflash/todo) -->
-- 🤝 I would appreciate any help on the above projects
+- 🤝 I would appreciate any help on any of my projects
 - 🌱 I’m currently learning **Javascript and React**
 - 💬 Ask me about **React, HTML, CSS or anything in general**
 - 📫 You can reach me at **shanuflash@gmail.com** 
