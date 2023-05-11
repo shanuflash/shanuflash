@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on [todo](https://github.com/shanuflash/todo) -->
 - 🤝 I would appreciate any help on any of my projects
-- 🌱 I’m currently learning **ExpressJS and Node**
+- 🌱 I’m currently learning **NextJS**
 - 💬 Ask me about **React, HTML, CSS or anything in general**
 - 📫 You can reach me at **shanuflash@gmail.com** 
 
