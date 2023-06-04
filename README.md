@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shanu S</h1>
-<h3 align="center">20yo • Developer // Tech enthusiast from India</h3>
+<h3 align="center">20yo • Full Stack Web Developer // Tech enthusiast from India</h3>
 
 - 🔭 I’m currently working on [EZinvoiceEZ](https://github.com/shanuflash/EZinvoicEZ)
 - 🤝 I would appreciate any help on any of my projects
