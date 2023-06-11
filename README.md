@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shanu S</h1>
 <h3 align="center">20yo • Full Stack Web Developer // Tech enthusiast from India</h3>
 
-- 🔭 I’m currently working on [EZinvoiceEZ](https://github.com/shanuflash/EZinvoicEZ)
+- 🔭 I’m currently working on [invoicezz](https://github.com/shanuflash/invoicezz)
 - 🤝 I would appreciate any help on any of my projects
 - 🌱 I’m currently learning **NextJS**
 - 💬 Ask me about **React, HTML, CSS or anything in general**
