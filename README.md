@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shanu S</h1>
-<h3 align="center">21yo • Full Stack Web Developer // Tech enthusiast from India</h3>
+<h3 align="center">Full Stack Web Developer // Tech enthusiast from India</h3>
 
-- 🔭 I’m currently working on [Gangster Clothing](https://github.com/kaxxsh/gangsterClothing)
 - 🤝 I would appreciate any help on any of my projects
 - 🌱 I’m currently learning **NextJS**
 - 💬 Ask me about **React, NextJS, MERN Stack or anything in general**
