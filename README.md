@@ -1,8 +1,9 @@
 <img width="1000" height="300" alt="download" src="https://github.com/user-attachments/assets/677b3ebf-d3c9-47aa-bdcc-051fc2fff07f" />
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Welcome to my page!</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome to my page!</h1>
 
-<p>Frontend developer @SurveySparrow from <img width="13" height="13" alt="image" src="https://github.com/user-attachments/assets/32fabc7c-31c8-40bc-8c54-6cf94303dd8d" /> <b>Chennai, India</b>. </p>
+<p>Frontend developer <a href="https://surveysparrow.com" target="_blank">@SurveySparrow</a> from <b>Chennai, India</b> <img width="13" height="13" alt="image" src="https://github.com/user-attachments/assets/32fabc7c-31c8-40bc-8c54-6cf94303dd8d" />.</p>
+
 <p>Frontend dev obsessed with React, Next.js, and building pixel-perfect, scalable apps. I love optimizing for performance and great UX. Full-stack curious—always happy to dip my toes in backend waters.</p>
 
 <h3>Connect with me at</h3>
